@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -g -fPIC -std=gnu++11 -o CMakeFiles/Project.dir/Main.cpp.o -c /home/lyes/Desktop/Project/Main.cpp",
+  "file": "/home/lyes/Desktop/Project/Main.cpp"
+},
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -I/home/lyes/Desktop/Project/googletest/googlemock/include -I/home/lyes/Desktop/Project/googletest/googlemock -isystem /home/lyes/Desktop/Project/googletest/googletest/include -isystem /home/lyes/Desktop/Project/googletest/googletest -g -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/lyes/Desktop/Project/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/lyes/Desktop/Project/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -isystem /home/lyes/Desktop/Project/googletest/googlemock/include -isystem /home/lyes/Desktop/Project/googletest/googlemock -isystem /home/lyes/Desktop/Project/googletest/googletest/include -isystem /home/lyes/Desktop/Project/googletest/googletest -g -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/lyes/Desktop/Project/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/lyes/Desktop/Project/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -I/home/lyes/Desktop/Project/googletest/googletest/include -I/home/lyes/Desktop/Project/googletest/googletest -g -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/lyes/Desktop/Project/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/lyes/Desktop/Project/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -isystem /home/lyes/Desktop/Project/googletest/googletest/include -isystem /home/lyes/Desktop/Project/googletest/googletest -g -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/lyes/Desktop/Project/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/lyes/Desktop/Project/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/lyes/Desktop/Project/build",
+  "command": "/usr/bin/c++ -isystem /home/lyes/Desktop/Project/googletest/googletest/include -isystem /home/lyes/Desktop/Project/googletest/googletest -g -fPIE -std=gnu++14 -o test/CMakeFiles/ProjectTests.dir/ProjectTests.cpp.o -c /home/lyes/Desktop/Project/test/ProjectTests.cpp",
+  "file": "/home/lyes/Desktop/Project/test/ProjectTests.cpp"
+}
+]

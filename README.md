@@ -1,4 +1,15 @@
 # FirstProject
-I'm learning C++ by doing some basic programs so if you want to help me you can add .cpp file that has error so I can try find them (please easy error)
-or just giving me some idea of project by adding the start of a .cpp file and telling me what it suppose to do and I'll try finished the project.
-Thanks for reading this.
+Hello I'm learning C++ and in order to do that I decided to create my first porject.
+
+Project: Task Manager.
+
+You can create a program that allows the user to manage his daily tasks. The program can offer the following features:
+
+- Add a task: allows the user to add a new task by entering its name and due date.
+
+- Delete task: allows the user to delete an existing task by entering its name.
+
+- Show all tasks: displays all existing tasks, sorted by due date.
+
+- Show tasks for a given date: allows the user to see all tasks that are due on a given date.
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230402-2134-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="lyes-ASUS"
+	OSRelease="5.15.0-67-generic"
+	OSVersion="#74-Ubuntu SMP Wed Feb 22 14:14:39 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="2048"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7802"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2267.36"
+	>
+	<Testing>
+		<StartDateTime>Apr 02 17:45 EDT</StartDateTime>
+		<StartTestTime>1680471936</StartTestTime>
+		<TestList>
+			<Test>./test/ProjectTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ProjectTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ProjectTests</FullName>
+			<FullCommandLine>/home/lyes/Desktop/Project/build/test/ProjectTests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00593063</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lyes/Desktop/Project/build/test/ProjectTests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUEFOxDAMvOcVPm4PTZYHcEAq2gMCVl04VRUKxZQuib1KXBC/pyHViiIhdU4je+yxpx6JBurB24E2BbwG9mDe2KNxXxhNhfFd+GT2gY/YiemZe4eCcUFj6Eyf2FNao7tONZdntFDPHheQNNlj5nEcBLVqyjNa2Dl+ti73kT6GwOSRJi1KOZ7+iH/vnI98mApRNVA/3sEP2kVHV+iZogQruEuVW9sFTgMZ9zfrBmCzBR+LdedkMQiLdYVa96+gDeULf9Iyzf9ShGBJL32ml/ZXh8N1lTLIWq2+AcsYoSA=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 02 17:45 EDT</EndDateTime>
+		<EndTestTime>1680471936</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
